@@ -1,10 +1,15 @@
 ## Hi, I'm Catherine 👋
 
-👩🏻‍💻 I'm an undergrad at Harvard studying Computer Science with a minor in English. Previously I've interned in AI research, software engineering, and project management roles at IBM, Apple, and nonprofits. I'm interested in researching & building tools that create social impact, especially in relation to fairness/accessibility, privacy, and education.
+### Currently I'm...
+- Taking a gap semester from Harvard as a [Soma Capital Fellow](https://fellowship.somacap.com/)
+- Leading a team of 101 from 6 Ivy League hackathons to build the [ultimate virtual hackathon](http://ivyhacks.com/)
+- Writing for [Fair Bytes](http://fairbytes.org/) & [Towards Data Science](https://towardsdatascience.com/)
+- Speeding through The Legend of Korra series
 
-🔭 I'm a member of MIT CSAIL's Internet Policy Research Initiative group researching conversational, natural language systems used to make CS education more accessible. I also write about fairness and ethics in AI in my blog [Fair Bytes](http://fairbytes.org/).
-
-😄 I love hackathons and have organized 10 hackathons (from institutional to international). I founded and led PixelHacks, the Bay Area's first all-female high school hackathon (now in its 5th iteration). I currently direct HackHarvard.
+### Previously, I've...
+- Taught a [summer class on fairness in AI & algorithms](http://catherineyeo.tech/morph) to high schoolers
+- Founded [PixelHacks](http://pixelhacks.com/) and led/organized a bunch of other hackathons
+- Written over 120K words of fiction with 315K+ reads
 
 ### Find me around the web 🌎
 - Writing about CS, AI, life on Medium [@catyeo18](https://medium.com/@catyeo18)
