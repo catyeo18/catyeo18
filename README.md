@@ -1,19 +1,18 @@
 ## Hi, I'm Catherine 👋
 
 ### Currently I'm...
-- Taking a gap semester from Harvard as a [Soma Capital Fellow](https://fellowship.somacap.com/)
+- Taking time off from Harvard to help build the future of hiring at [Dover](http://dover.io/) (YC S19)
 - Leading a team of 101 from 6 Ivy League hackathons to build the [ultimate virtual hackathon](http://ivyhacks.com/)
 - Writing for [Fair Bytes](http://fairbytes.org/) & [Towards Data Science](https://towardsdatascience.com/)
-- Speeding through The Legend of Korra series
 
 ### Previously, I've...
 - Taught a [summer class on fairness in AI & algorithms](http://catherineyeo.tech/morph) to high schoolers
-- Founded [PixelHacks](http://pixelhacks.com/) and led/organized a bunch of other hackathons
-- Written over 120K words of fiction with 315K+ reads
+- Founded [PixelHacks](http://pixelhacks.com/) & organized a bunch of other hackathons
+- Written over 120K words of fiction
 
 ### Find me around the web 🌎
 - Writing about CS, AI, life on Medium [@catyeo18](https://medium.com/@catyeo18)
-- Tweeting about programming memes, research, and Star Wars [@catyeo18](https://twitter.com/catyeo18)
+- Tweeting about programming memes, AI research, and Star Wars [@catyeo18](https://twitter.com/catyeo18)
 - Personal website: [catherineyeo.tech](http://catherineyeo.tech/)
 
 
