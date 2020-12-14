@@ -1,13 +1,13 @@
 ## Hi, I'm Catherine 👋
 
 ### Currently I'm...
-- Taking time off from Harvard to help build the future of hiring at [Dover](http://dover.io/) (YC S19)
-- Leading a team of 101 from 6 Ivy League hackathons to build the [ultimate virtual hackathon](http://ivyhacks.com/)
+- Taking time off from Harvard to build & grow [Sesame](https://sesamecall.com), the easiest way for students to hang out spontaneously
 - Writing for [Fair Bytes](http://fairbytes.org/) & [Towards Data Science](https://towardsdatascience.com/)
+- Learning screenwriting for fun
 
 ### Previously, I've...
 - Taught a [summer class on fairness in AI & algorithms](http://catherineyeo.tech/morph) to high schoolers
-- Founded [PixelHacks](http://pixelhacks.com/) & organized a bunch of other hackathons
+- Founded [PixelHacks](http://pixelhacks.com/) & led a team of 101 from 6 Ivy League hackathons to build the [ultimate virtual hackathon](http://ivyhacks.com/)
 - Written over 120K words of fiction
 
 ### Find me around the web 🌎
