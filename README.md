@@ -1,7 +1,7 @@
 ## Hi, I'm Catherine 👋
 
 ### Currently I'm...
-- Taking time off from Harvard to build & grow [Sesame](https://sesamecall.com), the easiest way for students to hang out spontaneously
+- Taking time off from Harvard
 - Writing for [Fair Bytes](http://fairbytes.org/) & [Towards Data Science](https://towardsdatascience.com/)
 - Learning screenwriting for fun
 
