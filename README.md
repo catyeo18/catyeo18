@@ -12,8 +12,8 @@
 
 ### Find me around the web 🌎
 - Writing about CS, AI, life on Medium [@catyeo18](https://medium.com/@catyeo18)
-- Tweeting about programming memes, AI research, and Star Wars [@catyeo18](https://twitter.com/catyeo18)
-- Personal website: [catherineyeo.tech](http://catherineyeo.tech/)
+- Tweeting about programming memes, AI research, and Star Wars [@catherinehyeo](https://twitter.com/catherinehyeo)
+- Personal website: [catherinehyeo.com](https://catherinehyeo.com/)
 
 
 <!--
