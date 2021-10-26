@@ -1,19 +1,9 @@
 ## Hi, I'm Catherine 👋
 
-### Currently I'm...
-- Taking time off from Harvard
-- Writing for [Fair Bytes](http://fairbytes.org/) & [Towards Data Science](https://towardsdatascience.com/)
-- Learning screenwriting for fun
-
-### Previously, I've...
-- Taught a [summer class on fairness in AI & algorithms](http://catherineyeo.tech/morph) to high schoolers
-- Founded [PixelHacks](http://pixelhacks.com/) & led a team of 101 from 6 Ivy League hackathons to build the [ultimate virtual hackathon](http://ivyhacks.com/)
-- Written over 120K words of fiction
-
 ### Find me around the web 🌎
-- Writing about CS, AI, life on Medium [@catyeo18](https://medium.com/@catyeo18)
-- Tweeting about programming memes, AI research, and Star Wars [@catherinehyeo](https://twitter.com/catherinehyeo)
 - Personal website: [catherinehyeo.com](https://catherinehyeo.com/)
+- Tweeting about startups, creators, and AI ethics [@catherinehyeo](https://twitter.com/catherinehyeo)
+- Writing about CS, AI, life on Medium [@catyeo18](https://medium.com/@catyeo18)
 
 
 <!--
