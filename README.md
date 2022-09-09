@@ -2,8 +2,8 @@
 
 ### Find me around the web 🌎
 - Personal website: [catherinehyeo.com](https://catherinehyeo.com/)
-- Tweeting about startups, creators, and AI ethics [@catherinehyeo](https://twitter.com/catherinehyeo)
-- Writing about CS, AI, life on Medium [@catyeo18](https://medium.com/@catyeo18)
+- Twitter [@catherinehyeo](https://twitter.com/catherinehyeo)
+- Buy my book [here](https://catherinehyeo.com/creator)
 
 
 <!--
