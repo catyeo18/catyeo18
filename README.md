@@ -3,7 +3,6 @@
 Currently an engineer at **Warp**: a modern, collaborative terminal built in Rust. Try Warp for free here: [warp.dev](https://www.warp.dev)!
 
 ### Find me around the web 🌎
-- Personal website: [catherinehyeo.com](https://catherinehyeo.com/)
 - Twitter [@catherinehyeo](https://twitter.com/catherinehyeo)
 - Buy my book [here](https://catherinehyeo.com/creator)
 
