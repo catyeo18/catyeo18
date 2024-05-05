@@ -4,7 +4,7 @@ Currently an engineer at **Warp**: a modern, collaborative terminal built in Rus
 
 ### Find me around the web 🌎
 - Twitter [@catherinehyeo](https://twitter.com/catherinehyeo)
-- Buy my book [here](https://catherinehyeo.com/creator)
+- Buy my book [here](https://www.amazon.com/Creator-Revolution-Creative-Talents-Tomorrow/dp/B0B2WLWRCM/)
 
 
 <!--
