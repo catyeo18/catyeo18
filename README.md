@@ -1,6 +1,6 @@
 ## Hi, I'm Catherine 👋
 
-Currently a software engineer at **Warp**: a modern, collaborative terminal built in Rust. Download Warp here: [warp.dev](https://www.warp.dev)!
+Currently a software engineer at **Warp**: an intelligent, collaborative terminal built in Rust. Download Warp here today: [warp.dev](https://www.warp.dev)
 
 ### Find me around the web 🌎
 - Twitter [@catherinehyeo](https://twitter.com/catherinehyeo)
